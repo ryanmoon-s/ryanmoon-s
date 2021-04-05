@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryanmoon-s
 - 👀 I’m interested in c programing
-- 🌱 I’m currently learning redis
+- 🌱 I’m currently learning shell script
 - 💞️ I’m looking to collaborate on ...
 - 📫 email me 1119067989@qq.com
 
