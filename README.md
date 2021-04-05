@@ -2,7 +2,7 @@
 - 👀 I’m interested in c programing
 - 🌱 I’m currently learning linux shell script
 - 💞️ I’m looking to collaborate on ...
-- 📫 email me 1119067989@qq.com
+- 📫 email me ryan.moon@qq.com
 
 <!---
 ryanmoon-s/ryanmoon-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
