@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ryanmoon-s from Chengdu Xihua University
-- 👀 I’m interested in c/c++ programing
+- 👀 I am mainly engaged in back-end development related positions
 - 🌱 I’m currently learning redis
 - 📫 email me : ryan.moon@qq.com
 
