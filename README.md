@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ryanmoon-s come from Chengdu Xihua University
+- 👋 Hi, I’m @ryanmoon-s from Chengdu Xihua University
 - 👀 I’m interested in c/c++ programing
 - 🌱 I’m currently learning redis
 - 📫 email me : ryan.moon@qq.com
