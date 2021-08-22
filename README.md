@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ryanmoon-s
+- 👋 Hi, I’m @ryanmoon-s come from Chengdu XiHua University
 - 👀 I’m interested in c/c++ programing
-- 🌱 I’m currently learning linux shell script
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning redis
 - 📫 email me : ryan.moon@qq.com
 
 <!---
