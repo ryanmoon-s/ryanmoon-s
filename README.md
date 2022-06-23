@@ -1,4 +1,4 @@
-- 👀 I am mainly engaged in back-end development related positions.
+- 👀 I am mainly engaged in back-end development related positions, now working for tencent.
 - 📫 email me : ryan.moon@qq.com
 
 <!---
