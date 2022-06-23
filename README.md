@@ -1,4 +1,3 @@
-- 👋 Hi, I’m from Chengdu Xihua University, Now working for Tencent.
 - 👀 I am mainly engaged in back-end development related positions.
 - 📫 email me : ryan.moon@qq.com
 
